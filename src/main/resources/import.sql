@@ -1,0 +1,10 @@
+INSERT INTO `DRONE` (serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('12345',0,1,180,50);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('24680',2,2,250,100);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('13921',5,1,120,80);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('95231',1,3,500,60);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('74216',0,0,100,70);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('64376',0,0,50,25);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('32400',3,2,300,20);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('85342',4,3,400,10);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('84953',0,1,150,30);
+INSERT INTO `DRONE` ( serial_number, drone_state, drone_model, weight_limit, battery_capacity) VALUES ('84739',0,0,70,5);
